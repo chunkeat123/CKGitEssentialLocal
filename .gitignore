@@ -1,5 +1,7 @@
 #dependencies folder
-node_modules/
+#node_modules/
+dependencies
+.log
 
 *.gem
 *.rbc
